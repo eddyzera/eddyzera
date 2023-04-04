@@ -6,7 +6,7 @@ I am frontend developer and a love so much learning about technologies and meet 
 - 🔭 I’m currently working on a open source project.
 - 🌱 I’m currently learning about shopify.
 - 💬 Ask me about ReactJS, Typescript and Javascript or new technologies.
-- 📫 How to reach me: this is my email: esivla644@gmail.com
+- 📫 How to reach me: this is my email: esilva644@gmail.com
 - ⚡ Fun fact: i love comic books, video games, movies and series.
 
 <div>
